@@ -22,3 +22,12 @@
 [submodule "managed_nodes/ComfyUI-MultiGPU"]
 	path = managed_nodes/ComfyUI-MultiGPU
 	url = https://github.com/pollockjj/ComfyUI-MultiGPU.git
+[submodule "managed_nodes/ComfyUI-LayerStyle"]
+	path = managed_nodes/ComfyUI-LayerStyle
+	url = https://github.com/chflame163/ComfyUI_LayerStyle.git
+[submodule "managed_nodes/ComfyUI-LGTools"]
+	path = managed_nodes/ComfyUI-LGTools
+	url = https://github.com/LAOGOU-666/Comfyui_LG_Tools.git
+[submodule "managed_nodes/ComfyUI-LayerStyle-Advance"]
+	path = managed_nodes/ComfyUI-LayerStyle-Advance
+	url = https://github.com/chflame163/ComfyUI_LayerStyle_Advance.git
