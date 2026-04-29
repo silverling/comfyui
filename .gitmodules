@@ -1,3 +1,24 @@
 [submodule "managed_nodes/ComfyUI-SAM3"]
 	path = managed_nodes/ComfyUI-SAM3
 	url = https://github.com/PozzettiAndrea/ComfyUI-SAM3.git
+[submodule "managed_nodes/ComfyUI-KJNodes"]
+	path = managed_nodes/ComfyUI-KJNodes
+	url = https://github.com/kijai/ComfyUI-KJNodes.git
+[submodule "managed_nodes/rgthree-comfy"]
+	path = managed_nodes/rgthree-comfy
+	url = https://github.com/rgthree/rgthree-comfy.git
+[submodule "managed_nodes/ComfyUI-Crystools"]
+	path = managed_nodes/ComfyUI-Crystools
+	url = https://github.com/crystian/ComfyUI-Crystools.git
+[submodule "managed_nodes/ComfyUI-Easy-Use"]
+	path = managed_nodes/ComfyUI-Easy-Use
+	url = https://github.com/yolain/ComfyUI-Easy-Use.git
+[submodule "managed_nodes/cg-use-everywhere"]
+	path = managed_nodes/cg-use-everywhere
+	url = https://github.com/chrisgoringe/cg-use-everywhere.git
+[submodule "managed_nodes/ComfyUI-SUPIR"]
+	path = managed_nodes/ComfyUI-SUPIR
+	url = https://github.com/kijai/ComfyUI-SUPIR.git
+[submodule "managed_nodes/ComfyUI-MultiGPU"]
+	path = managed_nodes/ComfyUI-MultiGPU
+	url = https://github.com/pollockjj/ComfyUI-MultiGPU.git
