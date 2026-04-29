@@ -1,0 +1,3 @@
+[submodule "managed_nodes/ComfyUI-SAM3"]
+	path = managed_nodes/ComfyUI-SAM3
+	url = https://github.com/PozzettiAndrea/ComfyUI-SAM3.git
