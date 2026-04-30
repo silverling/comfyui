@@ -43,3 +43,6 @@
 [submodule "managed_nodes/ComfyUI-Align"]
 	path = managed_nodes/ComfyUI-Align
 	url = https://github.com/Moooonet/ComfyUI-Align.git
+[submodule "managed_nodes/ComfyUI-Inspector"]
+	path = managed_nodes/ComfyUI-Inspector
+	url = https://github.com/danielwolber-wood/ComfyUI-Inspector.git

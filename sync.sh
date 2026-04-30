@@ -12,6 +12,7 @@ uv add \
 	-r managed_nodes/ComfyUI-LayerStyle-Advance/requirements.txt \
 	-r managed_nodes/ComfyUI-LGTools/requirements.txt \
 	-r managed_nodes/ComfyUI-GGUF/requirements.txt \
-	-r managed_nodes/ComfyUI-VideoHelperSuite/requirements.txt
+	-r managed_nodes/ComfyUI-VideoHelperSuite/requirements.txt \
+	-r managed_nodes/ComfyUI-Inspector/requirements.txt
 
 uv sync
