@@ -10,6 +10,7 @@ uv add \
 	-r managed_nodes/ComfyUI-SUPIR/requirements.txt \
 	-r managed_nodes/ComfyUI-LayerStyle/requirements.txt \
 	-r managed_nodes/ComfyUI-LayerStyle-Advance/requirements.txt \
-	-r managed_nodes/ComfyUI-LGTools/requirements.txt
+	-r managed_nodes/ComfyUI-LGTools/requirements.txt \
+	-r managed_nodes/ComfyUI-GGUF/requirements.txt
 
 uv sync

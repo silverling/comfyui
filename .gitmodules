@@ -31,3 +31,6 @@
 [submodule "managed_nodes/ComfyUI-LayerStyle-Advance"]
 	path = managed_nodes/ComfyUI-LayerStyle-Advance
 	url = https://github.com/chflame163/ComfyUI_LayerStyle_Advance.git
+[submodule "managed_nodes/ComfyUI-GGUF"]
+	path = managed_nodes/ComfyUI-GGUF
+	url = https://github.com/city96/ComfyUI-GGUF.git
