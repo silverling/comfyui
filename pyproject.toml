@@ -94,6 +94,7 @@ dependencies = [
     "typer-config>=1.5.1",
     "typing-extensions>=4.15.0",
     "ultralytics>=8.2.0",
+    "watchdog>=6.0.0",
     "wget>=3.2",
     "xformers>=0.0.35",
     "yapf>=0.43.0",
