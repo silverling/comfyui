@@ -37,3 +37,6 @@
 [submodule "managed_nodes/ComfyUI-AssetManager"]
 	path = managed_nodes/ComfyUI-AssetManager
 	url = https://github.com/c0dezer019/AssetManager.git
+[submodule "managed_nodes/ComfyUI-VideoHelperSuite"]
+	path = managed_nodes/ComfyUI-VideoHelperSuite
+	url = https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
