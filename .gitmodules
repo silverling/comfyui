@@ -40,3 +40,6 @@
 [submodule "managed_nodes/ComfyUI-VideoHelperSuite"]
 	path = managed_nodes/ComfyUI-VideoHelperSuite
 	url = https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
+[submodule "managed_nodes/ComfyUI-Align"]
+	path = managed_nodes/ComfyUI-Align
+	url = https://github.com/Moooonet/ComfyUI-Align.git
